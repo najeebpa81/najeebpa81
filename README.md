@@ -7,7 +7,7 @@ I specialize in transforming raw enterprise data into prioritized sales engines.
 
 ## 🚀 Featured Repositories
 
-### 1. [🎯 Lead-Scoring-Portfolio](https://github.com/YOUR_USERNAME/Lead-Scoring-Portfolio)
+### 1. [🎯 Lead-Scoring-Portfolio](https://github.com/najeebpa81/Lead-Scoring-Portfolio)
 *The core of my professional work. A collection of end-to-end solutions for high-ticket industries.*
 
 * **🏦 Bank Marketing (Predictive):** 95% ROC-AUC model using Random Forest and SHAP for 100% explainable lead scores.
@@ -15,7 +15,7 @@ I specialize in transforming raw enterprise data into prioritized sales engines.
 * **🏦 Bank Marketing (Rule-Based):** A transparent, logic-driven prioritization system for immediate CRM deployment.
 * **📱 Social Media Classification:** Advanced XGBoost & Logistic Regression models for platform moderation and user verification.
 
-### 2. [🎓 Google-Advanced-Data-Analytics-Certification](https://github.com/YOUR_USERNAME/Google-Advanced-Data-Analytics-Certification)
+### 2. [🎓 Google-Advanced-Data-Analytics-Certification](https://github.com/najeebpa81/Google-Advanced-Data-Analytics-Certification)
 *A showcase of my formal technical foundation through the Google PACE framework.*
 
 ---
