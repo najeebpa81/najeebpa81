@@ -49,7 +49,6 @@ I specialize in transforming raw enterprise data into prioritized sales engines.
 ---
 
 ## 📫 Connect with Me
-I am currently open to collaborations and roles within the **UAE, Singapore, and the wider GCC region.**
 
 | **najeebpa81@gmail.com** | **+65 91817634**
 
