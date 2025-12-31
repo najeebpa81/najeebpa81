@@ -23,9 +23,9 @@ I specialize in transforming raw enterprise data into prioritized sales engines.
 ## 📜 Professional Certifications
 *Beyond my Advanced Data Analytics credentials, I hold specialized certifications in industry-standard tools:*
 
-* [cite_start]**🐍 Python for Data Science:** Certified by **IBM** in advanced data analysis techniques[cite: 26, 27].
-* [cite_start]**📊 Visual Intelligence (Tableau):** Certified by **UC Davis** in Essential Design Principles and Fundamentals of Visualization with Tableau[cite: 7, 65, 66].
-* [cite_start]**📈 Advanced Excel Analytics:** Certified by **Rice University** for data analysis using Excel[cite: 45, 46].
+* **🐍 Python for Data Science:** Certified by **IBM** in advanced data analysis techniques.
+* **📊 Visual Intelligence (Tableau):** Certified by **UC Davis** in Essential Design Principles and Fundamentals of Visualization with Tableau.
+* **📈 Advanced Excel Analytics:** Certified by **Rice University** for data analysis using Excel.
 
 ---
 
