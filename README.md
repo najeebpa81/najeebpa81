@@ -1,54 +1,67 @@
 # 🎯 Najeeb P.A | Data Science & Lead Scoring Specialist
+
 **Precision Targeting | Predictive Analytics | Explainable AI**
 
-I specialize in transforming raw enterprise data into prioritized sales engines. My work focuses on the intersection of **Machine Learning** and **Sales Operations**, helping businesses in the GCC and global markets identify high-value opportunities with mathematical certainty.
+I specialize in turning raw enterprise data into actionable sales and risk engines. My expertise lies at the intersection of **Machine Learning**, **Sales Operations**, and **Fintech Risk Management**, delivering mathematical certainty for high-stakes decisions in the GCC and global markets.
 
 ---
 
 ## 🚀 Featured Repositories
 
-### 1. [🎯 Lead-Scoring-Portfolio](https://github.com/najeebpa81/Lead-Scoring-Portfolio)
-*The core of my professional work. A collection of end-to-end solutions for high-ticket industries.*
+### 1. [🎯 Lead-Scoring-Portfolio](https://github.com/najeebpa81/Lead-Scoring-Portfolio)  
+*The core of my sales-focused work — end-to-end lead prioritization solutions for high-ticket industries.*  
+- 🏦 Bank Marketing (Predictive): 95% ROC-AUC model with Random Forest + SHAP explainability  
+- 🏙️ Dubai Real Estate: Rule-based engine with Arabic script detection and luxury tiering  
+- 🏦 Bank Marketing (Rule-Based): Transparent logic for immediate CRM deployment  
+- 📱 Social Media Classification: XGBoost & Logistic Regression for content moderation
 
-* **🏦 Bank Marketing (Predictive):** 95% ROC-AUC model using Random Forest and SHAP for 100% explainable lead scores.
-* **🏙️ Dubai Real Estate:** A rule-based engine for the UAE market featuring Arabic script detection and luxury property tiering.
-* **🏦 Bank Marketing (Rule-Based):** A transparent, logic-driven prioritization system for immediate CRM deployment.
-* **📱 Social Media Classification:** Advanced XGBoost & Logistic Regression models for platform moderation and user verification.
+### 2. [💳 explainable-loan-approval-default-model](https://github.com/najeebpa81/explainable-loan-approval-default-model)  
+*Production-grade fintech risk pipeline — dual-stage approval + default prediction with full explainability.*  
+- Stage 1 Approval Filter: Replicates historical policy (AUC ~0.96)  
+- Stage 2 Default Risk Engine: Predicts defaults on approved loans (Test AUC 0.7042)  
+- Full SHAP Transparency: Global importance + local force plots for every decision  
+- Threshold Optimization: Tunable risk/volume balance (recommended 0.45 threshold)
 
-### 2. [🎓 Google-Advanced-Data-Analytics-Certification](https://github.com/najeebpa81/Google-Advanced-Data-Analytics-Certification)
-*A showcase of my formal technical foundation through the Google PACE framework.*
+### 3. [🎓 Google-Advanced-Data-Analytics-Certification](https://github.com/najeebpa81/Google-Advanced-Data-Analytics-Certification)  
+*Formal foundation via Google PACE framework — structured analytical thinking and execution.*
 
 ---
 
 ## 📜 Professional Certifications
-*Beyond my Advanced Data Analytics credentials, I hold specialized certifications in industry-standard tools:*
-
-* **🐍 Python for Data Science:** Certified by **IBM** in advanced data analysis techniques.
-* **📊 Visual Intelligence (Tableau):** Certified by **UC Davis** in Essential Design Principles and Fundamentals of Visualization with Tableau.
-* **📈 Advanced Excel Analytics:** Certified by **Rice University** for data analysis using Excel.
+- **Google Advanced Data Analytics Professional Certificate**  
+- **Python for Data Science & Machine Learning** — IBM  
+- **Visual Intelligence with Tableau** — UC Davis  
+- **Advanced Excel Analytics** — Rice University
 
 ---
 
 ## 🛠️ My Specialized Toolkit
 
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Modeling** | Random Forest, XGBoost, Logistic Regression, SHAP (Explainable AI) |
-| **Data Engineering** | Python (Pandas, NumPy, Scikit-Learn), SQL, Data Cleaning & Resampling |
-| **Visualization** | **Tableau Specialist**, Seaborn, Matplotlib |
-| **Business Tools** | **Advanced Excel**, CRM Integration, Google PACE Framework |
+| Domain              | Tools & Technologies                                      |
+|---------------------|-----------------------------------------------------------|
+| **Modeling**        | XGBoost, Random Forest, Logistic Regression, SHAP (XAI)   |
+| **Risk & Scoring**  | Credit risk modeling, threshold optimization, probability calibration |
+| **Data Engineering**| Python (Pandas, NumPy, Scikit-Learn), SQL, Data Cleaning  |
+| **Visualization**   | **Tableau Specialist**, Seaborn, Matplotlib               |
+| **Business Tools**  | **Advanced Excel**, CRM Integration, Google PACE Framework|
 
 ---
 
 ## 💼 Business Solutions I Provide
-* **Lead Prioritization:** Building custom "Hot/Warm/Cold" engines for Sales/CRM teams.
-* **XAI Auditing:** Converting "Black Box" AI into human-readable business logic using SHAP.
-* **Visual Storytelling:** Creating executive dashboards in Tableau to track lead conversion and ROI.
-* **Database Cleanup:** Auditing massive datasets for outliers and cultural context (e.g., Arabic detection).
+- **Lead Prioritization Engines**: Custom "Hot/Warm/Cold" scoring for sales teams  
+- **Fintech Risk Modeling**: Approval filters + default prediction with regulatory-compliant explanations  
+- **Explainable AI (XAI)**: Converting complex models into clear business logic using SHAP  
+- **Executive Dashboards**: Tableau visualizations tracking conversion, ROI, and risk metrics  
+- **Data Integrity & Auditing**: Cleaning CRM datasets for outliers and regional context (e.g., Arabic detection)
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
+Open to opportunities in **lead scoring**, **fintech risk modeling**, and **predictive sales analytics**.  
+Reach out for collaborations, consultations, or custom solutions.
+
+---
+*Prepared by Najeeb P.A — Data Scientist delivering measurable impact in sales and financial risk.*
 
 | **najeebpa81@gmail.com** | **+65 91817634**
 
