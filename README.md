@@ -16,6 +16,7 @@ I specialize in turning raw enterprise data into actionable sales and risk engin
 - 📱 Social Media Classification: XGBoost & Logistic Regression for content moderation
 
 ### 2. [🎯 Fintech-Portfolio](https://github.com/najeebpa81/Fintech_Analytics)
+
 - 🏦 [💳 explainable-loan-approval-default-model](https://github.com/najeebpa81/Fintech_Analytics/tree/606ba40bfef15dcca50cff89dc24d18b43d8571c/explainable-loan-approval-default-model) 
 *Production-grade fintech risk pipeline — dual-stage approval + default prediction with full explainability.*  
   - Stage 1 Approval Filter: Replicates historical policy (AUC ~0.96)  
