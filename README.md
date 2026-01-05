@@ -60,7 +60,8 @@ I specialize in turning raw enterprise data into actionable sales and risk engin
 
 ## 📫 Let's Connect
 
- Najeeb P.A — Data Scientist delivering measurable impact in sales and financial risk.*
+ Najeeb P.A 
+ Data Scientist delivering measurable impact in sales and financial risk.
 | **najeebpa81@gmail.com** | **+65 91817634**
 
 ---
