@@ -15,7 +15,7 @@ I specialize in turning raw enterprise data into actionable sales and risk engin
 - 🏦 Bank Marketing (Rule-Based): Transparent logic for immediate CRM deployment  
 - 📱 Social Media Classification: XGBoost & Logistic Regression for content moderation
 
-### 2. [💳 explainable-loan-approval-default-model](https://github.com/najeebpa81/explainable-loan-approval-default-model)  
+### 2. [💳 explainable-loan-approval-default-model](explainable-loan-approval-default-model)  
 *Production-grade fintech risk pipeline — dual-stage approval + default prediction with full explainability.*  
 - Stage 1 Approval Filter: Replicates historical policy (AUC ~0.96)  
 - Stage 2 Default Risk Engine: Predicts defaults on approved loans (Test AUC 0.7042)  
@@ -57,12 +57,8 @@ I specialize in turning raw enterprise data into actionable sales and risk engin
 ---
 
 ## 📫 Let's Connect
-Open to opportunities in **lead scoring**, **fintech risk modeling**, and **predictive sales analytics**.  
-Reach out for collaborations, consultations, or custom solutions.
 
----
-*Prepared by Najeeb P.A — Data Scientist delivering measurable impact in sales and financial risk.*
-
+ Najeeb P.A — Data Scientist delivering measurable impact in sales and financial risk.*
 | **najeebpa81@gmail.com** | **+65 91817634**
 
 ---
