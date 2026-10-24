@@ -1,60 +1,37 @@
-# 🎯 Najeeb P.A | Data Science & Lead Scoring Specialist
+# 🎯 Najeeb P.A | Data Analytics & Machine Learning
+Python | Predictive Analytics | Model Interpretation | Data Visualization
 
-**Precision Targeting | Predictive Analytics | Explainable AI**
-
-I specialize in turning raw enterprise data into actionable sales and risk engines. My expertise lies at the intersection of **Machine Learning**, **Sales Operations**, and **Fintech Risk Management**, delivering mathematical certainty for high-stakes decisions in the GCC and global markets.
-
----
-
-## 🚀 Featured Repositories
-
-### 1. [🎯 Lead-Scoring-Portfolio](https://github.com/najeebpa81/Lead-Scoring-Portfolio)  
-*The core of my sales-focused work — end-to-end lead prioritization solutions for high-ticket industries.*  
-- 🏦 Bank Marketing (Predictive): 95% ROC-AUC model with Random Forest + SHAP explainability  
-- 🏙️ Dubai Real Estate: Rule-based engine with Arabic script detection and luxury tiering  
-- 🏦 Bank Marketing (Rule-Based): Transparent logic for immediate CRM deployment  
-- 📱 Social Media Classification: XGBoost & Logistic Regression for content moderation
-
-### 2. [🎯 Fintech-Portfolio](https://github.com/najeebpa81/Fintech_Analytics)
-
-- 🏦 [💳 explainable-loan-approval-default-model](https://github.com/najeebpa81/Fintech_Analytics/tree/606ba40bfef15dcca50cff89dc24d18b43d8571c/explainable-loan-approval-default-model) 
-*Production-grade fintech risk pipeline — dual-stage approval + default prediction with full explainability.*  
-  - Stage 1 Approval Filter: Replicates historical policy (AUC ~0.96)  
-  - Stage 2 Default Risk Engine: Predicts defaults on approved loans (Test AUC 0.7042)  
-  - Full SHAP Transparency: Global importance + local force plots for every decision  
-  - Threshold Optimization: Tunable risk/volume balance (recommended 0.45 threshold)
-
-### 3. [🎓 Google-Advanced-Data-Analytics-Certification](https://github.com/najeebpa81/Google-Advanced-Data-Analytics-Certification)  
-*Formal foundation via Google PACE framework — structured analytical thinking and execution.*
-
----
-
-## 📜 Professional Certifications
-- **Google Advanced Data Analytics Professional Certificate**  
-- **Python for Data Science & Machine Learning** — IBM  
-- **Visual Intelligence with Tableau** — UC Davis  
-- **Advanced Excel Analytics** — Rice University
-
----
-
-## 🛠️ My Specialized Toolkit
-
-| Domain              | Tools & Technologies                                      |
-|---------------------|-----------------------------------------------------------|
-| **Modeling**        | XGBoost, Random Forest, Logistic Regression, SHAP (XAI)   |
-| **Risk & Scoring**  | Credit risk modeling, threshold optimization, probability calibration |
-| **Data Engineering**| Python (Pandas, NumPy, Scikit-Learn), SQL, Data Cleaning  |
-| **Visualization**   | **Tableau Specialist**, Seaborn, Matplotlib               |
-| **Business Tools**  | **Advanced Excel**, CRM Integration, Google PACE Framework|
-
----
-
-## 💼 Business Solutions I Provide
-- **Lead Prioritization Engines**: Custom "Hot/Warm/Cold" scoring for sales teams  
-- **Fintech Risk Modeling**: Approval filters + default prediction with regulatory-compliant explanations  
-- **Explainable AI (XAI)**: Converting complex models into clear business logic using SHAP  
-- **Executive Dashboards**: Tableau visualizations tracking conversion, ROI, and risk metrics  
-- **Data Integrity & Auditing**: Cleaning CRM datasets for outliers and regional context (e.g., Arabic detection)
+I'm interested in using data analytics and machine learning to explore patterns, evaluate predictive models, and communicate findings clearly. This GitHub profile brings together projects developed through coursework and independent hands-on learning, including lead analysis, classification, and financial risk modeling.
+Featured Projects
+1. AI Lead & Revenue Intelligence
+An end-to-end lead analytics project combining conversion prediction, calibrated probabilities, SHAP model interpretation, and lead prioritization.
+- Compared logistic regression, random forest, and XGBoost models.
+- Evaluated performance on a held-out test set and analyzed conversion rates across lead-priority tiers.
+- Explored probability-based versus expected-commission ranking using illustrative commission assumptions.
+- Includes Jupyter notebooks, model artifacts, evaluation summaries, and documentation.
+2. Lead Scoring Portfolio
+A collection of earlier classification and lead-analysis exercises:
+- Bank marketing (predictive): Random forest classification and SHAP-based interpretation.
+- Dubai real estate: Rule-based segmentation, including Arabic-script detection and property tiering.
+- Bank marketing (rule-based): Transparent rule-based lead segmentation.
+- Social media classification: Experiments with XGBoost and logistic regression.
+3. Fintech Analytics
+Exploratory financial-risk modeling, including a two-stage loan approval and default prediction project.
+- Explores historical approval classification and default prediction among approved loans.
+- Includes model evaluation, SHAP interpretation, and decision-threshold analysis.
+4. Google Advanced Data Analytics Certification
+Learning materials and work associated with the Google Advanced Data Analytics Professional Certificate and its PACE analytical framework.
+Professional Learning & Certifications
+- Google Advanced Data Analytics Professional Certificate
+- Python for Data Science & Machine Learning — IBM
+- Visual Intelligence with Tableau — UC Davis
+- Advanced Excel Analytics — Rice University
+Tools & Topics
+Area	Tools and topics
+Data analysis	Python, pandas, NumPy, SQL, data cleaning
+Machine learning	scikit-learn, XGBoost, random forest, logistic regression
+Model evaluation	ROC-AUC, calibration, threshold analysis, SHAP
+Visualization	Tableau, Matplotlib, Seaborn, Excel
 
 ---
 
