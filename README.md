@@ -32,13 +32,3 @@ Data analysis	Python, pandas, NumPy, SQL, data cleaning
 Machine learning	scikit-learn, XGBoost, random forest, logistic regression
 Model evaluation	ROC-AUC, calibration, threshold analysis, SHAP
 Visualization	Tableau, Matplotlib, Seaborn, Excel
-
----
-
-## 📫 Let's Connect
-
- Najeeb P.A 
- Data Scientist delivering measurable impact in sales and financial risk.
-| **najeebpa81@gmail.com** | **+65 91817634**
-
----
